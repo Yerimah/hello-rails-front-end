@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Messages from'./components/messages';
+import Messages from './components/messages';
 
 function App() {
   return (
